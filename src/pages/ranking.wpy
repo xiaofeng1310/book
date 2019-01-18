@@ -1,0 +1,16 @@
+<template>
+  <view>
+    排行
+  </view>
+</template>
+
+<script lang="ts">
+
+import wepy from 'wepy'
+
+export default class Ranking extends wepy.page {
+  config = {
+    navigationBarTitleText: '排行榜'
+  }
+}
+</script>

@@ -1,13 +1,15 @@
 {
-  "description": "book",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "touristappid",
-  "projectname": "xiaofeng",
-  "miniprogramRoot": "./dist"
+	"description": "book",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wxec72f20d9429dbf8",
+	"projectname": "xiaomufeng",
+	"miniprogramRoot": "dist/",
+	"condition": {}
 }
